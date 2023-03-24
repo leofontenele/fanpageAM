@@ -142,7 +142,7 @@ h1 {
     text-align: center;
 }
 #concerts {
- background-image: url(ArcticMonkeys2.jpg);
+ background-image: url(imagens/ArcticMonkeys2.jpg);
  padding: 50px 50px;
  display: flex;
 }
@@ -283,7 +283,7 @@ li {
 
 @font-face {
     font-family: Draftside-Light;
-    src: url(Draftside-Light.otf);
+    src: url(font/Draftside-Light.otf);
 }
 .row::after {
     content: "";
