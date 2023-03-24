@@ -283,7 +283,7 @@ li {
 
 @font-face {
     font-family: Draftside-Light;
-    src: url(Draftside-Light.otf);
+    src: url(font/Draftside-Light.otf);
 }
 .row::after {
     content: "";
